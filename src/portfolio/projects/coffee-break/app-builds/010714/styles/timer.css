@@ -1,0 +1,48 @@
+/*.timer {
+	color: white;
+	font-size: 40px;
+	padding-top:5px;
+	padding-bottom: 5px;
+}*/
+
+.usraction {
+	color: green;
+}
+
+.date {
+	color: orange;
+}
+
+/*.timer-class {
+	background: black;
+	color:white;	
+}*/
+
+
+/* http://cssdeck.com/labs/minimal-css3-digital-clock */
+@font-face {
+	font-family: 'digi';
+	src: url('http://www.prashanthr.info/portfolio/projects/coffee-break/app/styles/font-faces/DS-DIGII.TTF');
+}
+
+div .timer-class {
+  	font-family: 'digi';
+	/*width: 250px; height: 100px;*/
+	width: 250px;
+	background: black;
+	font-size: 4em;
+	/*color: #707070;*/
+	color: #707070;
+	
+	/* Centering everything */
+/*	position: absolute;
+	left: 50%; top: 50%;
+	margin-left: -125px; margin-top: -50px;*/
+	
+	text-align: center;
+	line-height: 100px;
+	
+	/*border-top: 5px solid #E54B6B;*/
+	border-top: 5px solid #AB4800;
+	background-image: linear-gradient(#f0f0f0, white);
+}

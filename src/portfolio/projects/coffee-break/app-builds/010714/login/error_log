@@ -1,0 +1,275 @@
+[21-Mar-2013 09:45:35] PHP Parse error:  syntax error, unexpected T_IF in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/verify.php on line 6
+[21-Mar-2013 09:45:44] PHP Parse error:  syntax error, unexpected T_IF in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/verify.php on line 6
+[24-Mar-2013 14:22:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/info.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 23
+[24-Mar-2013 14:22:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 14:22:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/info.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 23
+[24-Mar-2013 14:22:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 14:24:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 14:25:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 14:26:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:02:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:03:25] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:03:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:06:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:07:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:07:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:07:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:08:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:08:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:08:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:08:28] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:08:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:08:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:08:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:11:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:11:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 15:11:44] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/footer.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php:/usr/share/pear') in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 63
+[24-Mar-2013 18:32:12] PHP Parse error:  syntax error, unexpected T_IF in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/verify.php on line 6
+[24-Mar-2013 18:33:01] PHP Parse error:  syntax error, unexpected T_IF in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/verify.php on line 6
+[24-Mar-2013 18:34:18] PHP Parse error:  syntax error, unexpected ')' in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/verify.php on line 16
+[24-Mar-2013 18:34:20] PHP Parse error:  syntax error, unexpected ')' in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/verify.php on line 16
+[24-Mar-2013 18:35:40] PHP Parse error:  syntax error, unexpected ')' in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/verify.php on line 16
+[25-Mar-2013 21:01:58] PHP Fatal error:  Call to undefined function  alert() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 13
+[10-Apr-2013 20:53:48] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 30
+[10-Apr-2013 20:57:34] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 30
+[10-Apr-2013 20:58:50] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 30
+[10-Apr-2013 20:59:12] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 30
+[10-Apr-2013 20:59:14] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 30
+[10-Apr-2013 20:59:17] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 30
+[10-Apr-2013 21:25:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/verify.php:12) in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 115
+[10-Apr-2013 21:26:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/verify.php:12) in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 115
+[31-Aug-2013 22:29:58] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 22:29:59] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[31-Aug-2013 22:34:24] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 22:34:24] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[31-Aug-2013 22:39:30] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 22:39:30] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[31-Aug-2013 22:42:10] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 22:42:10] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[31-Aug-2013 22:47:28] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 22:47:28] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[31-Aug-2013 22:48:20] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 22:48:20] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[31-Aug-2013 23:00:47] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 23:00:47] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[31-Aug-2013 23:07:57] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 23:07:58] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[31-Aug-2013 23:08:33] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 23:08:33] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[31-Aug-2013 23:09:17] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Aug-2013 23:09:17] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:21:10] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:21:10] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:22:24] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:22:24] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:35:08] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:35:08] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:36:24] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:36:24] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:36:29] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:36:29] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:38:08] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:38:09] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:38:36] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:38:36] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:39:06] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:39:06] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:41:23] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:41:23] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:42:35] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:42:35] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:42:59] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:42:59] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:43:50] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:43:50] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:44:16] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:44:16] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:45:42] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:45:42] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:49:31] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:49:32] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:51:16] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:51:16] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 22:51:58] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 22:51:58] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 23:39:10] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 23:39:11] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 23:41:44] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 23:41:44] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 23:51:29] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 23:51:29] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 23:55:46] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 23:55:46] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[01-Sep-2013 23:58:50] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[01-Sep-2013 23:58:50] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:02:25] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:02:25] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:10:33] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:10:33] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:11:06] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:11:07] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:13:37] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:13:38] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:16:10] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:16:10] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:23:45] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:23:46] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:24:39] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:24:39] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:27:30] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:27:30] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:32:30] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:32:30] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:36:06] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:36:07] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:43:45] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:43:45] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:44:25] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:44:25] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:45:46] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:45:46] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 00:59:55] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 00:59:55] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:07:44] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:07:44] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:09:01] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:09:01] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:14:40] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:14:40] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:14:57] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:14:57] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:15:13] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:15:13] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:24:33] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:24:33] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:24:38] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:24:38] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:26:04] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:26:04] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:31:24] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:31:24] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:33:54] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:33:54] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:35:38] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:35:38] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:36:14] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:36:14] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:40:46] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:40:46] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:45:14] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:45:14] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:45:46] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:45:46] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:46:17] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:46:18] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:48:09] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:48:09] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:58:19] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:58:19] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 01:58:58] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 01:58:58] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 10:18:33] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 10:18:33] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 10:20:20] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 10:20:20] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:15:04] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:15:05] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:15:06] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:15:06] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:19:55] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:19:55] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:26:38] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:26:38] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:30:02] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:30:03] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:30:27] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:30:28] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:37:10] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:37:10] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:44:17] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:44:18] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:44:45] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:44:45] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 11:46:39] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 11:46:40] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 13:39:05] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 13:39:05] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[02-Sep-2013 13:39:05] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 13:39:30] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 13:39:30] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[02-Sep-2013 13:39:30] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 13:42:53] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 13:42:53] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[02-Sep-2013 13:42:53] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 13:43:39] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 13:43:39] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[02-Sep-2013 13:43:40] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 13:44:07] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 13:44:07] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[02-Sep-2013 13:44:07] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 13:44:17] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 13:44:17] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[02-Sep-2013 13:44:17] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 13:44:24] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 13:44:24] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[02-Sep-2013 13:44:25] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 13:46:19] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 13:46:19] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[02-Sep-2013 13:46:19] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[02-Sep-2013 13:46:56] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[02-Sep-2013 13:46:56] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[02-Sep-2013 13:46:56] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 07:46:39] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 07:46:39] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 07:46:39] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 07:48:16] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 07:48:16] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 07:48:16] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 07:48:48] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 07:48:48] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 07:48:48] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 07:48:50] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 07:48:50] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 07:48:50] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 10:00:13] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 10:00:13] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 16:51:00] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 16:51:00] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 16:51:00] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 16:52:48] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 16:52:48] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 16:52:48] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 16:52:50] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 16:52:50] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 16:52:50] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 16:52:51] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 16:52:51] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 16:52:51] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 16:52:54] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 16:52:54] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 16:52:54] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 16:53:27] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 16:53:27] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 16:53:27] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/login/index.php on line 15
+[03-Sep-2013 20:10:59] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 20:10:59] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 20:17:43] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 20:17:43] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[03-Sep-2013 20:21:13] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[03-Sep-2013 20:21:13] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[04-Sep-2013 07:48:16] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[04-Sep-2013 07:48:16] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[04-Sep-2013 07:48:26] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[04-Sep-2013 07:48:26] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[05-Sep-2013 22:34:27] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[05-Sep-2013 22:34:27] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[05-Sep-2013 22:37:38] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[05-Sep-2013 22:37:38] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[05-Sep-2013 22:39:05] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[05-Sep-2013 22:39:05] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[06-Sep-2013 07:38:43] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[06-Sep-2013 07:38:43] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[13-Sep-2013 14:25:23] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[13-Sep-2013 14:25:23] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[30-Sep-2013 07:53:02] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[30-Sep-2013 07:53:02] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15

@@ -1,0 +1,7 @@
+Version History
+
+1.0 - Timer, Break Options, Only Default Theme Support, Firefox Support, Added Music Support (Initial Release)
+2.0 - Fixed Logo, Added Chrome Support, Fixed time display problem, Set Default Timezone to Eastern Time (EDT (UTC - 4:00) / EST (UTC - 5:00))
+3.0 - Detect TimeZone, Option to Change TimeZone (Planned, In Progress)
+4.0 - More Theme Support (Planned)
+5.0 - Migrate to GitHub (Planned)

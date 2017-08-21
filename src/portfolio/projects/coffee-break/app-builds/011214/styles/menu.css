@@ -1,0 +1,81 @@
+/* http://codepen.io/chirola30/pen/Aydug */
+/* ---- reset ------*/
+/*html, body, div, a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline; }
+
+html {
+  line-height: 1; }
+*/
+
+/* --- basic styles ----*/
+
+.menuarea {
+  /*font-family: "Unica One";*/
+  /*font-size: 1.5em;*/
+  /*background: #f2f2f2;*/
+  background-color: #E5E5E5;
+  text-shadow: 0 1px 0 white; 
+  max-height:45px !important;
+  /*margin: 0 0 0 20%;*/
+  margin: 0 0 0 0;
+}
+
+
+/* --- for all three examples ----*/
+
+.navi {
+  text-align: center;
+  overflow: hidden;
+  margin: 0.25em auto;
+  width: 480px;
+  position: relative; }
+  .navi a {
+    display: block;
+    position: relative;
+    float: left;
+    padding: 1em 0 2em;
+    width: 25%;
+    text-decoration: none;
+    color: #393939;
+    -webkit-transition: .7s;
+    -moz-transition: .7s;
+    -o-transition: .7s;
+    -ms-transition: .7s;
+    transition: .7s; }
+    .navi a:hover {
+      color: #2D3437;/*#c6342e;*/ font-weight: bold;}
+
+.effect {
+  position: absolute;
+  left: -12.5%;
+  -webkit-transition: 0.7s ease-in-out;
+  -moz-transition: 0.7s ease-in-out;
+  -o-transition: 0.7s ease-in-out;
+  -ms-transition: 0.7s ease-in-out;
+  transition: 0.7s ease-in-out; }
+
+  .navi a:nth-child(1):hover ~ .effect {
+    left: 12.5%; }
+  .navi a:nth-child(2):hover ~ .effect {
+    left: 37.5%; }
+  .navi a:nth-child(3):hover ~ .effect {
+    left: 62.5%; }
+  .navi a:nth-child(4):hover ~ .effect {
+    left: 87.5%; }
+
+/* ----- line example -----*/
+
+.ph-line-nav .effect {
+  width: 90px;
+  height: 2px;
+  bottom: 18px;
+  /*background: #AB4800;/*#c6342e;*/
+  background-color: blue;
+  box-shadow: 0 1px 0 white; 
+  margin-left:-45px;
+}

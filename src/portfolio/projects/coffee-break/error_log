@@ -1,0 +1,5 @@
+[14-Apr-2013 23:26:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/prashan8/public_html/portfolio/projects/coffee-break/subscribe.php on line 14
+[14-Apr-2013 23:27:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/prashan8/public_html/portfolio/projects/coffee-break/subscribe.php on line 14
+[14-Apr-2013 23:27:26] PHP Parse error:  syntax error, unexpected T_STRING in /home4/prashan8/public_html/portfolio/projects/coffee-break/subscribe.php on line 14
+[14-Apr-2013 23:33:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/prashan8/public_html/portfolio/projects/coffee-break/subscribe.php:17) in /home4/prashan8/public_html/portfolio/projects/coffee-break/subscribe.php on line 19
+[14-Apr-2013 23:35:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/prashan8/public_html/portfolio/projects/coffee-break/subscribe.php:17) in /home4/prashan8/public_html/portfolio/projects/coffee-break/subscribe.php on line 19

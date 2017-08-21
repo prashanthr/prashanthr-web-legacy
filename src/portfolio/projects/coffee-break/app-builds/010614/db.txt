@@ -1,0 +1,3 @@
+DB Layout
+users  - id, firstname, lastname, email, password, age, caffeine_level, last_login, total_hours_worked, total_break_hours, avg_break_time, avg_work_time 
+levels - id, caffeine level, name

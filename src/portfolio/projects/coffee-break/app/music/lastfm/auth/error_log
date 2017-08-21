@@ -1,0 +1,1 @@
+[14-Jul-2013 15:04:32] PHP Notice:  Undefined variable: signtoken_append_string in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/music/lastfm/auth/index.php on line 44

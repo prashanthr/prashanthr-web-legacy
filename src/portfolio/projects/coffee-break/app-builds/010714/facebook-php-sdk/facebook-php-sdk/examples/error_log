@@ -1,0 +1,3 @@
+[13-Apr-2013 14:59:20] PHP Fatal error:  Uncaught OAuthException: This IP can't make requests for that application.
+  thrown in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/facebook-php-sdk/facebook-php-sdk/src/base_facebook.php on line 1254
+[13-Apr-2013 15:12:00] CSRF state token does not match one provided.

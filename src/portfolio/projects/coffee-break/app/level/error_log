@@ -1,0 +1,179 @@
+[12-Jul-2013 22:39:27] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:39:27] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:41:07] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:41:07] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:44:12] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:44:12] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:46:10] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:46:10] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:46:47] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:46:47] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:47:00] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:47:00] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:48:54] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:48:54] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:50:27] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:50:27] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:52:23] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:52:23] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:53:52] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:53:52] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:53:55] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:53:55] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:54:10] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:54:10] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:54:42] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:54:42] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:55:20] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:55:20] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 24
+[12-Jul-2013 22:55:20] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:56:33] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:56:33] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 24
+[12-Jul-2013 22:56:33] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:56:38] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:56:38] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 24
+[12-Jul-2013 22:56:38] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:58:04] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:58:04] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 24
+[12-Jul-2013 22:58:04] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:58:14] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:58:14] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 24
+[12-Jul-2013 22:58:14] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:58:17] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:58:17] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 24
+[12-Jul-2013 22:58:17] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:58:22] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:58:22] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 24
+[12-Jul-2013 22:58:22] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:58:26] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:58:26] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 24
+[12-Jul-2013 22:58:26] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 22:58:30] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 22:58:30] PHP Notice:  Undefined index:  LOGGED_IN in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 24
+[12-Jul-2013 22:58:30] PHP Notice:  Undefined variable: min in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 99
+[12-Jul-2013 22:58:30] PHP Notice:  Undefined variable: perks in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 111
+[12-Jul-2013 22:58:30] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 23:32:11] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 23:32:11] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[12-Jul-2013 23:40:36] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[12-Jul-2013 23:40:36] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[14-Jul-2013 12:48:45] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[14-Jul-2013 12:48:45] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[14-Jul-2013 13:34:09] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[14-Jul-2013 13:34:09] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[14-Jul-2013 19:44:08] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[14-Jul-2013 19:44:08] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[15-Jul-2013 08:01:22] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[15-Jul-2013 08:01:22] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[15-Jul-2013 13:58:57] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[15-Jul-2013 13:58:57] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[15-Jul-2013 18:40:10] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[15-Jul-2013 18:40:10] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[15-Jul-2013 20:47:25] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[15-Jul-2013 20:47:26] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[21-Jul-2013 16:46:18] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[21-Jul-2013 16:46:18] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[27-Jul-2013 00:58:25] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[27-Jul-2013 00:58:25] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 548
+[27-Jul-2013 00:58:25] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 806
+[27-Jul-2013 00:58:25] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[06-Jan-2014 13:20:06] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[06-Jan-2014 13:20:06] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[06-Jan-2014 13:20:06] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 325
+[06-Jan-2014 13:20:06] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 549
+[06-Jan-2014 13:20:06] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[10-Jan-2014 09:53:15] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[10-Jan-2014 09:53:15] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[10-Jan-2014 09:53:15] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[10-Jan-2014 09:53:15] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[10-Jan-2014 09:53:15] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[16-Jan-2014 11:19:51] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[16-Jan-2014 11:19:51] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[16-Jan-2014 11:19:51] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[16-Jan-2014 11:19:51] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[16-Jan-2014 11:19:51] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[17-Jan-2014 11:01:59] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[17-Jan-2014 11:01:59] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[17-Jan-2014 11:01:59] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[17-Jan-2014 11:01:59] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[17-Jan-2014 11:01:59] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[17-Jan-2014 11:02:29] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[17-Jan-2014 11:02:29] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[17-Jan-2014 11:02:29] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[17-Jan-2014 11:02:29] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[17-Jan-2014 11:02:29] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[17-Jan-2014 13:48:31] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[17-Jan-2014 13:48:31] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[17-Jan-2014 13:48:31] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[17-Jan-2014 13:48:31] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[17-Jan-2014 15:18:39] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[17-Jan-2014 15:18:39] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[17-Jan-2014 15:18:39] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[17-Jan-2014 15:18:39] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[17-Jan-2014 15:18:39] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[17-Jan-2014 15:18:55] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[17-Jan-2014 15:18:55] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[17-Jan-2014 15:18:55] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[17-Jan-2014 15:18:55] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[17-Jan-2014 15:18:55] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[17-Jan-2014 15:19:02] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[17-Jan-2014 15:19:02] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[17-Jan-2014 15:19:02] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[17-Jan-2014 15:19:02] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[17-Jan-2014 15:19:02] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[17-Jan-2014 15:19:07] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[17-Jan-2014 15:19:07] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[17-Jan-2014 15:19:07] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[17-Jan-2014 15:19:07] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[17-Jan-2014 15:19:07] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[19-Jan-2014 11:45:17] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[19-Jan-2014 11:45:17] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[19-Jan-2014 11:45:17] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[19-Jan-2014 11:45:17] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[19-Jan-2014 11:45:17] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[20-Jan-2014 09:26:41] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[20-Jan-2014 09:26:41] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[20-Jan-2014 09:26:41] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[20-Jan-2014 09:26:41] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[20-Jan-2014 09:26:41] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[31-Jan-2014 16:11:59] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[31-Jan-2014 16:11:59] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[31-Jan-2014 16:11:59] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[31-Jan-2014 16:11:59] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[31-Jan-2014 16:11:59] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[10-Feb-2014 21:24:51] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[10-Feb-2014 21:24:51] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[10-Feb-2014 21:24:51] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[10-Feb-2014 21:24:51] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 615
+[10-Feb-2014 21:24:51] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[17-Feb-2014 18:15:28] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[17-Feb-2014 18:15:28] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[17-Feb-2014 18:15:28] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[17-Feb-2014 18:15:28] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 630
+[17-Feb-2014 18:15:29] PHP Notice:  Undefined variable: min in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 43
+[17-Feb-2014 18:15:29] PHP Notice:  Undefined variable: perks in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 68
+[17-Feb-2014 18:15:29] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[17-Feb-2014 21:33:51] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[17-Feb-2014 21:33:51] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[17-Feb-2014 21:33:51] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 630
+[17-Feb-2014 21:33:51] PHP Notice:  Undefined variable: min in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 43
+[17-Feb-2014 21:33:51] PHP Notice:  Undefined variable: perks in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 68
+[17-Feb-2014 21:33:51] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[19-Feb-2014 19:56:36] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[19-Feb-2014 19:56:36] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[19-Feb-2014 19:56:36] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[19-Feb-2014 19:56:36] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 630
+[19-Feb-2014 19:56:36] PHP Notice:  Undefined variable: min in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 43
+[19-Feb-2014 19:56:36] PHP Notice:  Undefined variable: perks in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 68
+[19-Feb-2014 19:56:36] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[14-May-2014 07:55:09] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[14-May-2014 07:55:09] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[14-May-2014 07:55:09] PHP Notice:  Undefined variable: SESSION in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 385
+[14-May-2014 07:55:11] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 617
+[14-May-2014 07:55:12] PHP Notice:  Undefined variable: min in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 43
+[14-May-2014 07:55:12] PHP Notice:  Undefined variable: perks in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/level/index.php on line 68
+[14-May-2014 07:55:12] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3
+[09-Feb-2015 21:41:51] PHP Notice:  Undefined index:  USER in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 8
+[09-Feb-2015 21:41:51] PHP Notice:  Undefined index:  LOGIN_TYPE in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/preheader.php on line 15
+[09-Feb-2015 21:41:51] PHP Notice:  Undefined variable: introjsoptionsattributes in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/functions.php on line 617
+[09-Feb-2015 21:41:51] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prashan8/public_html/portfolio/projects/coffee-break/app/includes/footer.php on line 3

@@ -1,0 +1,12 @@
+Help
+
+Firefox
+-You may need to have the HTML5 Notifications Add-On installed. 
+-You can get it at https://addons.mozilla.org/en-US/firefox/addon/html-notifications
+
+Chrome
+-Chrome has HTML5 Notifications in-built but requires a user action to display a request for permissions
+-Please click on the link on the bottom left "I'm Using Google Chrome" to trigger it.
+
+
+If you have any problems, please e-mail admin AT prashanthr DOT info
